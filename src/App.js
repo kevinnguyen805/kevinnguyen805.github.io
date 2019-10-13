@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello my name is Kevin Nguyen
         </a>
       </header>
     </div>
